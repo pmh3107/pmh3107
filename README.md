@@ -1,6 +1,4 @@
-# Hi there 👋
-
-![Header]([https://your-website.com/header.png](https://hienphan.id.vn/))
+# Hello ✌🏻
 
 Welcome to my GitHub profile! I'm Hiển Phan, a final year IT student specializing in web development with React and interested in embedded systems like Arduino. My goal is to become a professional developer and create innovative solutions that meet user needs.
 
@@ -30,18 +28,11 @@ Welcome to my GitHub profile! I'm Hiển Phan, a final year IT student specializ
 
 ## 📈 GitHub Stats
 
-![Hiển's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Hiển's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmh3107&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh3107&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-hi%E1%BB%83n-phan-30007b216/)
-[![Personal Website](https://hienphan.id.vn/)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
 
 ⭐️ From [Hiển Phan](https://github.com/pmh3107)
