@@ -1,6 +1,6 @@
 # Hello ✌🏻
 
-Welcome to my GitHub profile! I'm Hiển Phan, a final year IT student specializing in web development with React and interested in embedded systems like Arduino. My goal is to become a professional developer and create innovative solutions that meet user needs.
+Welcome to my GitHub profile! I'm **Hiển Phan**, a final year IT student specializing in web development with React and interested in embedded systems like Arduino. My goal is to become a professional developer and create innovative solutions that meet user needs.
 
 ## 🌟 About Me
 
@@ -27,12 +27,12 @@ Welcome to my GitHub profile! I'm Hiển Phan, a final year IT student specializ
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
-
-![Hiển's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmh3107&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmh3107&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-hi%E1%BB%83n-phan-30007b216/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pmh3107)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
 
 ⭐️ From [Hiển Phan](https://github.com/pmh3107)
